@@ -1,16 +1,37 @@
-# toktik
+# TokTik 🎵
 
-A new Flutter project.
+Flutter application demo project.
+
+TokTik is a simple Flutter app created as a starting point for practicing Flutter development.  
+It includes basic UI, navigation, and interaction patterns.
+
+---
+
+## Features
+
+- Basic Flutter project setup
+- Navigation between screens
+- UI components and layout practice
+- Placeholder for future extensions (animations, video feed, etc.)
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/your-username/toktik.git
+cd toktik
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Install dependencies:
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app:
+```bash
+flutter run
+```
+
